@@ -10,8 +10,8 @@ Esse código é um programa JavaScript que cria uma animação de partículas us
 
 <img src="./estrelas-da-stela.gif">
 
-#link de teste
-[site](https://estrelas-da-stela.netlify.app/)
+# link de teste
+[Visite o site "Estrelas da Stela"](https://estrelas-da-stela.netlify.app/ "Clique aqui para visitar o site Estrelas da Stela")
 
 # Tecnologias utilizadas
 
