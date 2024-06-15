@@ -19,7 +19,7 @@ Esse código é um programa JavaScript que cria uma animação de partículas us
 
 ## Como Executar o Projeto Localmente
 
-Siga os passos abaixo para configurar e executar o projeto localmente:
+Para visualizar a prévia do projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     ```sh
@@ -29,11 +29,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
     ```sh
     cd estrelas-da-stela
     ```
-3. Inicie um servidor local. Você pode usar o `http-server` para isso:
-    ```sh
-    http-server
-    ```
-4. Acesse o projeto em `http://localhost:8080`.
+3. Abra o arquivo `index.html` em qualquer navegador web moderno.
 
 ## Como Contribuir
 
