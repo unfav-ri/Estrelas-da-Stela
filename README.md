@@ -2,26 +2,53 @@
 
 Como é a visão da Stela ao navegar pelo universo criado para ela.
 
-# Sobre o projeto
+## Sobre o Projeto
 
 Esse código é um programa JavaScript que cria uma animação de partículas usando o elemento canvas do HTML5. A animação consiste em partículas brilhantes que se movem em direção ao centro do canvas, criando um efeito de convergência das partículas. Dando a impressão que "Stela" está navegando pelo cosmos.
 
 ## Prévia
 
-<img src="./estrelas-da-stela.gif">
+<img src="https://github.com/unfav-ri/assets/blob/master/ESTRELAS-DA-STELA/estrelas-da-stela.gif">
 
-# link de teste
-[Visite o site "Estrelas da Stela"](https://estrelas-da-stela.netlify.app/ "Clique aqui para visitar o site Estrelas da Stela")
+## Tecnologias Utilizadas
 
-# Tecnologias utilizadas
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Canvas**
 
-- HTML / CSS / JS
-- Canvas
+## Como Executar o Projeto Localmente
 
-# Autor
+Siga os passos abaixo para configurar e executar o projeto localmente:
 
-### R. Gonçalves
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/unfav-ri/estrelas-da-stela.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd estrelas-da-stela
+    ```
+3. Inicie um servidor local. Você pode usar o `http-server` para isso:
+    ```sh
+    http-server
+    ```
+4. Acesse o projeto em `http://localhost:8080`.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgoncalves-sp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unfav_ri)
+## Como Contribuir
+
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um Pull Request.
+
+## Autor
+
+**R. Gonçalves**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unic-ri/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unic_ri)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/210427541956198400)
